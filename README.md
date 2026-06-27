@@ -12,3 +12,11 @@
 * Google Teachable machine
 * Python dili kullanılacak
 * HTML/CSS
+
+##Modelin sınıfları
+*Cam
+*Kağıt
+*Plastik
+*Metal
+*Pil
+*Organik atıkklar
